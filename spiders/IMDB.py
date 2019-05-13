@@ -9,7 +9,16 @@ class IMDBSpider(scrapy.Spider):
     allowed_domains = ["imdb.com"]
     start_urls = ["https://www.imdb.com/chart/top"]
 
+
     def parse(self,response):
+        '''
+        this part is for debug
+        :param response:
+        :return:
+        '''
+        # from scrapy.shell import inspect_response
+        # inspect_response(response, self)
+
         soup = BeautifulSoup(response.text)
         movies = soup.find("tbody",{"class":"lister-list"})
         for movie in movies.findAll("tr"):
