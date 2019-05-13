@@ -1,0 +1,251 @@
+actors,director,movie_id,movie_name,score,year
+,Frank Darabont,111161,The Shawshank Redemption,9.217263962127053,1994
+,Sergio Leone,60196,"The Good, the Bad and the Ugly",8.821850510760314,1966
+,David Fincher,137523,Fight Club,8.772976586792815,1999
+,Steven Spielberg,108052,Schindler's List,8.900640632106835,1993
+,Quentin Tarantino,110912,Pulp Fiction,8.856120902382965,1994
+,Peter Jackson,120737,The Lord of the Rings: The Fellowship of the Ring,8.770007577676084,2001
+,Peter Jackson,167260,The Lord of the Rings: The Return of the King,8.871506342636899,2003
+,David Fincher,114369,Se7en,8.598892228280993,1995
+,Robert Zemeckis,109830,Forrest Gump,8.7352280590175,1994
+,Fernando Meirelles,317248,City of God,8.597203739329833,2002
+,George Lucas,76759,Star Wars: Episode IV - A New Hope,8.594743080185324,1977
+,Francis Ford Coppola,68646,The Godfather,9.155397137861067,1972
+,Sidney Lumet,50083,12 Angry Men,8.914864191880163,1957
+,Francis Ford Coppola,71562,The Godfather: Part II,8.99001957610175,1974
+,Christopher Nolan,468569,The Dark Knight,8.962018911401822,2008
+,Anthony Russo,4154796,Avengers: Endgame,8.722156881438213,2019
+,Krzysztof Kieslowski,111495,Three Colors: Red,8.00844424280051,1994
+,Wim Wenders,87884,"Paris, Texas",8.010829301502886,1984
+,Federico Fellini,50783,The Nights of Cabiria,8.009542056702326,1957
+,Katsuhiro Ôtomo,94625,Akira,8.008398248234148,1988
+,William Wyler,36868,The Best Years of Our Lives,8.008953865174128,1946
+,Gary Trousdale,101414,Beauty and the Beast,8.009105089586365,1991
+,Gore Verbinski,325980,Pirates of the Caribbean: The Curse of the Black Pearl,8.010192361434195,2003
+,Richard Linklater,381681,Before Sunset,8.013194154874201,2004
+,Anurag Kashyap,1954470,Gangs of Wasseypur,8.008350467843119,2012
+,William Friedkin,70047,The Exorcist,8.009045891896262,1973
+,Hayao Miyazaki,92067,Castle in the Sky,8.01096286570912,1986
+,Steven Spielberg,73195,Jaws,8.014625357842514,1975
+,James Gunn,2015381,Guardians of the Galaxy,8.013730240723945,2014
+,Victor Fleming,32138,The Wizard of Oz,8.01627759499536,1939
+,Tate Taylor,1454029,The Help,8.016418113866294,2011
+,Henri-Georges Clouzot,46911,Diabolique,8.018081355599529,1955
+,Harold Ramis,107048,Groundhog Day,8.01762299347984,1993
+,Richard Kelly,246578,Donnie Darko,8.019662119729038,2001
+,Richard Attenborough,83987,Gandhi,8.020217225722389,1982
+,James Cameron,88247,The Terminator,8.023170038916447,1984
+,Mathieu Kassovitz,113247,La Haine,8.020173909992799,1995
+,John Huston,33870,The Maltese Falcon,8.024865075367718,1941
+,John Ford,32551,The Grapes of Wrath,8.029778026451828,1940
+,Kar-Wai Wong,118694,In the Mood for Love,8.019182019122436,2000
+,Yimou Zhang,101640,Raise the Red Lantern,8.022899732768357,1991
+,Chan-wook Park,4016934,The Handmaiden,8.02037744926296,2016
+,Pete Docter,198781,"Monsters, Inc.",8.036351507765884,2001
+,Peter Weir,97165,Dead Poets Society,8.02982440101954,1989
+,Stanley Kubrick,72684,Barry Lyndon,8.043347338860325,1975
+,Hayao Miyazaki,87544,Nausicaä of the Valley of the Wind,8.050093888945442,1984
+,Rob Reiner,93779,The Princess Bride,8.048293972258207,1987
+,George Roy Hill,64115,Butch Cassidy and the Sundance Kid,8.043017507861542,1969
+,Rakeysh Omprakash Mehra,405508,Rang De Basanti,8.041638978510445,2006
+,Steven Spielberg,264464,Catch Me If You Can,8.054632970025175,2002
+,John G. Avildsen,75148,Rocky,8.043818237393706,1976
+,Alejandro G. Iñárritu,245712,Amores Perros,8.053858962077959,2000
+,Carl Theodor Dreyer,19254,The Passion of Joan of Arc,8.054946544077774,1928
+,David Yates,1201607,Harry Potter and the Deathly Hallows: Part 2,8.051444762283287,2011
+,Andrei Tarkovsky,60107,Andrei Rublev,8.056764260986103,1966
+,François Truffaut,53198,The 400 Blows,8.056668552417994,1959
+,James Mangold,3315342,Logan,8.056605479002897,2017
+,Tom McCarthy,1895587,Spotlight,8.054895150901334,2015
+,Henri-Georges Clouzot,46268,The Wages of Fear,8.060292671259935,1953
+,Ron Howard,1979320,Rush,8.059618024023365,2013
+,Yavuz Turgul,116231,The Bandit,8.063523573670265,1996
+,Lasse Hallström,1028532,Hachi: A Dog's Tale,8.058831681150478,2009
+,Denis Villeneuve,1392214,Prisoners,8.061943286872403,2013
+,Hideaki Anno,169858,Neon Genesis Evangelion: The End of Evangelion,8.065040032936126,1997
+,George Miller,1392190,Mad Max: Fury Road,8.061051401454781,2015
+,Clint Eastwood,405159,Million Dollar Baby,8.06656324049432,2004
+,Terry George,395169,Hotel Rwanda,8.06645998408598,2004
+,Richard Linklater,112471,Before Sunrise,8.064964502350547,1995
+,William Wyler,52618,Ben-Hur,8.069542468580055,1959
+,Steve McQueen,2024544,12 Years a Slave,8.06816471280418,2013
+,Terry Jones,79470,Monty Python's Life of Brian,8.071577521235058,1979
+,Ingmar Bergman,60827,Persona,8.069155552462577,1966
+,Oliver Stone,91763,Platoon,8.07382312056263,1986
+,Joon-ho Bong,353969,Memories of Murder,8.071841188129717,2003
+,Frank Capra,25316,It Happened One Night,8.074052178790026,1934
+,Sidney Lumet,74958,Network,8.071839575685697,1976
+,Sean Penn,758758,Into the Wild,8.074447703757006,2007
+,Jim Sheridan,107207,In the Name of the Father,8.076551063388543,1993
+,Andrei Tarkovsky,79944,Stalker,8.077421685252988,1979
+,Rob Reiner,92005,Stand by Me,8.075242379077242,1986
+,Peter Weir,120382,The Truman Show,8.080337257322585,1998
+,F.W. Murnau,18455,Sunrise,8.079651693472712,1927
+,Damián Szifron,3011894,Wild Tales,8.087149017484862,2014
+,Wes Anderson,2278388,The Grand Budapest Hotel,8.07673534037874,2014
+,David Fincher,2267998,Gone Girl,8.088149679437988,2014
+,Dean DeBlois,892769,How to Train Your Dragon,8.090132349666819,2010
+,Mel Gibson,2119532,Hacksaw Ridge,8.092768743716139,2016
+,Alfred Hitchcock,32976,Rebecca,8.093813766291587,1940
+,Steven Spielberg,107290,Jurassic Park,8.090303047399233,1993
+,Yasujirô Ozu,46438,Tokyo Story,8.094444127575848,1953
+,Buster Keaton,15324,Sherlock Jr.,8.10155818292138,1924
+,Stuart Rosenberg,61512,Cool Hand Luke,8.096381092053635,1967
+,Adam Elliot,978762,Mary and Max,8.093989130899399,2009
+,Joel Coen,118715,The Big Lebowski,8.105709165959764,1998
+,Elem Klimov,91251,Come and See,8.118082104854592,1985
+,Quentin Tarantino,266697,Kill Bill: Vol. 1,8.102981106782233,2003
+,Martin Scorsese,1130884,Shutter Island,8.108501963839538,2010
+,Michael Cimino,77416,The Deer Hunter,8.114421935633745,1978
+,Andrew Stanton,266543,Finding Nemo,8.116653705569853,2003
+,Clint Eastwood,1205489,Gran Torino,8.117049678343466,2008
+,John Carpenter,84787,The Thing,8.122494299414148,1982
+,Victor Fleming,31381,Gone with the Wind,8.124457014164697,1939
+,M. Night Shyamalan,167404,The Sixth Sense,8.126391346966544,1999
+,Clyde Bruckman,17925,The General,8.126590749283494,1926
+,Joel Coen,116282,Fargo,8.122200024064373,1996
+,Danny Boyle,117951,Trainspotting,8.126022478087071,1996
+,Paul Thomas Anderson,469494,There Will Be Blood,8.129386697710796,2007
+,Sriram Raghavan,8108198,Andhadhun,8.12694783416419,2018
+,Ethan Coen,477348,No Country for Old Men,8.129650425797138,2007
+,Alfred Hitchcock,46912,Dial M for Murder,8.130508384674581,1954
+,Ridley Scott,83658,Blade Runner,8.131067704593967,1982
+,Ingmar Bergman,50986,Wild Strawberries,8.127231789072335,1957
+,Lenny Abrahamson,3170832,Room,8.13374922497041,2015
+,James McTeigue,434409,V for Vendetta,8.137174123373772,2005
+,Frank Capra,31679,Mr. Smith Goes to Washington,8.135068203213738,1939
+,Gavin O'Connor,1291584,Warrior,8.131889540651233,2011
+,Elia Kazan,47296,On the Waterfront,8.147482446348395,1954
+,David Lynch,80678,The Elephant Man,8.141738128382704,1980
+,Martin Scorsese,993846,The Wolf of Wall Street,8.142917845855223,2013
+,Pete Docter,2096673,Inside Out,8.141053572707088,2015
+,Guy Ritchie,120735,"Lock, Stock and Two Smoking Barrels",8.152634253258553,1998
+,Martin Scorsese,112641,Casino,8.152460442062688,1995
+,Martin McDonagh,5027774,"Three Billboards Outside Ebbing, Missouri",8.147540081143315,2017
+,Ron Howard,268978,A Beautiful Mind,8.155864068652098,2001
+,David Lean,50212,The Bridge on the River Kwai,8.155756302633188,1957
+,Akira Kurosawa,89881,Ran,8.170117949610585,1985
+,Ingmar Bergman,50976,The Seventh Seal,8.14840478452417,1957
+,Juan José Campanella,1305806,The Secret in Their Eyes,8.16267053077174,2009
+,Çagan Irmak,476735,My Father and My Son,8.1722882975225,2005
+,Hayao Miyazaki,347149,Howl's Moving Castle,8.17153852223267,2004
+,Stanley Kramer,55031,Judgment at Nuremberg,8.166948701033382,1961
+,Charles Chaplin,15864,The Gold Rush,8.162132600980309,1925
+,Carol Reed,41959,The Third Man,8.172947618026459,1949
+,Hayao Miyazaki,96283,My Neighbor Totoro,8.17638503580939,1988
+,Martin Scorsese,81398,Raging Bull,8.188882261292902,1980
+,Roman Polanski,71315,Chinatown,8.178731399964066,1974
+,Majid Majidi,118849,Children of Heaven,8.186624246888666,1997
+,Guillermo del Toro,457430,Pan's Labyrinth,8.181039615184034,2006
+,John Huston,40897,The Treasure of the Sierra Madre,8.202740937417031,1948
+,John Sturges,57115,The Great Escape,8.186928957724003,1963
+,Akira Kurosawa,44741,Ikiru,8.195724388322688,1952
+,Michael Mann,113277,Heat,8.203840308640569,1995
+,Peter Farrelly,6966692,Green Book,8.196187282592247,2018
+,John McTiernan,95016,Die Hard,8.206788696839283,1988
+,Akira Kurosawa,55630,Yojimbo,8.21281095227019,1961
+,Denis Villeneuve,1255953,Incendies,8.19910792501124,2010
+,Clint Eastwood,105695,Unforgiven,8.206893532687745,1992
+,Oliver Hirschbiegel,363163,Downfall,8.207946753262428,2004
+,Billy Wilder,53291,Some Like It Hot,8.21322331758089,1959
+,Christopher Nolan,372784,Batman Begins,8.214436227141388,2005
+,Akira Kurosawa,42876,Rashomon,8.224288649131713,1950
+,Joseph L. Mankiewicz,42192,All About Eve,8.218213650021728,1950
+,Pete Docter,1049413,Up,8.224804331000147,2009
+,Terry Gilliam,71853,Monty Python and the Holy Grail,8.239697892067733,1975
+,Steven Spielberg,97576,Indiana Jones and the Last Crusade,8.228905803957716,1989
+,Billy Wilder,53604,The Apartment,8.241556844312038,1960
+,Sergio Leone,59578,For a Few Dollars More,8.241897989574516,1965
+,Guy Ritchie,208092,Snatch,8.251967608286819,2000
+,Asghar Farhadi,1832382,A Separation,8.232277631669717,2011
+,Curtis Hanson,119488,L.A. Confidential,8.238924287467553,1997
+,Brian De Palma,86250,Scarface,8.244477944765435,1983
+,Fritz Lang,17136,Metropolis,8.240113097711719,1927
+,Thomas Vinterberg,2106476,The Hunt,8.256577426092552,2012
+,George Roy Hill,70735,The Sting,8.261777806033349,1973
+,Vittorio De Sica,40522,Bicycle Thieves,8.266203161157081,1948
+,Gus Van Sant,119217,Good Will Hunting,8.263884797368377,1997
+,Charles Chaplin,12349,The Kid,8.263934411332302,1921
+,Stanley Kubrick,93058,Full Metal Jacket,8.26935951341803,1987
+,Robert Mulligan,56592,To Kill a Mockingbird,8.266298566400348,1962
+,Lee Unkrich,435761,Toy Story 3,8.255566400243769,2010
+,Martin Scorsese,75314,Taxi Driver,8.273002843505093,1976
+,Quentin Tarantino,361748,Inglourious Basterds,8.273411972040828,2009
+,Billy Wilder,36775,Double Indemnity,8.274953619146583,1944
+,Stanley Kubrick,66921,A Clockwork Orange,8.278770374463424,1971
+,Jean-Pierre Jeunet,211915,Amélie,8.27568270882297,2001
+,Stanley Donen,45152,Singin' in the Rain,8.27657556157089,1952
+,Michel Gondry,338013,Eternal Sunshine of the Spotless Mind,8.281906750731745,2004
+,Aamir Khan,986264,Like Stars on Earth,8.282249630398086,2007
+,Rajkumar Hirani,1187043,3 Idiots,8.285446359827354,2009
+,David Lean,56172,Lawrence of Arabia,8.280657223367525,1962
+,John Lasseter,114709,Toy Story,8.282772137871483,1995
+,Milos Forman,86879,Amadeus,8.295714496043763,1984
+,Darren Aronofsky,180093,Requiem for a Dream,8.291689835598277,2000
+,Makoto Shinkai,5311514,Your Name.,8.304391095369287,2016
+,Stanley Kubrick,62622,2001: A Space Odyssey,8.283167142042538,2001
+,Nitesh Tiwari,5074352,Dangal,8.289270091720129,2016
+,Fritz Lang,22100,M,8.299277291962623,1931
+,Alfred Hitchcock,53125,North by Northwest,8.309399538453345,1959
+,Richard Marquand,86190,Star Wars: Episode VI - Return of the Jedi,8.302987131410184,1983
+,Quentin Tarantino,105236,Reservoir Dogs,8.305836887569228,1992
+,Wolfgang Petersen,82096,Das Boot,8.32794521669871,1981
+,Alfred Hitchcock,52357,Vertigo,8.31159329953416,1958
+,Orson Welles,33467,Citizen Kane,8.320552871998954,1941
+,Mel Gibson,112573,Braveheart,8.315187871799175,1995
+,Sam Mendes,169547,American Beauty,8.344429519713605,1999
+,Sergio Leone,87843,Once Upon a Time in America,8.34041707260019,1984
+,Lee Unkrich,2380307,Coco,8.330761364810531,2017
+,Chan-wook Park,364569,Oldboy,8.349436127901157,2003
+,Hayao Miyazaki,119698,Princess Mononoke,8.358982620361994,1997
+,Billy Wilder,51201,Witness for the Prosecution,8.356113185502394,1957
+,James Cameron,90605,Aliens,8.34662815118622,1986
+,Christopher Nolan,1345836,The Dark Knight Rises,8.346452485664589,2012
+,Andrew Stanton,910970,WALL·E,8.375377278644292,2008
+,Stanley Kubrick,57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.402291006382454,1964
+,Stanley Kubrick,81505,The Shining,8.387341727134471,1980
+,Stanley Kubrick,50825,Paths of Glory,8.392706000151229,1957
+,Billy Wilder,43014,Sunset Boulevard,8.407375669708316,1950
+,Quentin Tarantino,1853728,Django Unchained,8.38781399434347,2012
+,Florian Henckel von Donnersmarck,405094,The Lives of Others,8.404846297755606,2006
+,Charles Chaplin,32553,The Great Dictator,8.420591455372993,1940
+,Isao Takahata,95327,Grave of the Fireflies,8.425038232825512,1988
+,Ridley Scott,78748,Alien,8.436750908821798,1979
+,Giuseppe Tornatore,95765,Cinema Paradiso,8.423233145483485,1988
+,Christopher Nolan,209144,Memento,8.438425601979638,2000
+,Bob Persichetti,4633694,Spider-Man: Into the Spider-Verse,8.42717419363221,2018
+,Francis Ford Coppola,78788,Apocalypse Now,8.439916184944668,1979
+,Christopher Nolan,482571,The Prestige,8.4561692366597,2006
+,Anthony Russo,4154756,Avengers: Infinity War,8.39920240454971,2018
+,Ridley Scott,172495,Gladiator,8.463504601680368,2000
+,Alfred Hitchcock,47396,Rear Window,8.467917522324754,1954
+,Steven Spielberg,82971,Raiders of the Lost Ark,8.463720568341268,1981
+,Charles Chaplin,27977,Modern Times,8.48149464004772,1936
+,Roman Polanski,253474,The Pianist,8.481664976127947,2002
+,Robert Zemeckis,88763,Back to the Future,8.476184734519606,1985
+,Damien Chazelle,2582802,Whiplash,8.470203477658762,2014
+,Olivier Nakache,1675434,The Intouchables,8.47826038032472,2011
+,Martin Scorsese,407887,The Departed,8.476987611168854,2006
+,James Cameron,103064,Terminator 2: Judgment Day,8.47508379591321,1991
+,Sergio Leone,64116,Once Upon a Time in the West,8.488981156394281,1968
+,Roger Allers,110357,The Lion King,8.46892399727406,1994
+,Alfred Hitchcock,54215,Psycho,8.498374262745962,1960
+,Tony Kaye,120586,American History X,8.497154976531109,1998
+,Charles Chaplin,21749,City Lights,8.49312707156917,1931
+,Michael Curtiz,34583,Casablanca,8.4912304899857,1942
+,Bryan Singer,114814,The Usual Suspects,8.537259409877635,1995
+,Christopher Nolan,816692,Interstellar,8.514099894499385,2014
+,Luc Besson,110413,Léon: The Professional,8.53022833556495,1994
+,Frank Darabont,120689,The Green Mile,8.515213667812425,1999
+,Steven Spielberg,120815,Saving Private Ryan,8.541486560554642,1998
+,Hayao Miyazaki,245429,Spirited Away,8.543161609058512,2001
+,Roberto Benigni,118799,Life Is Beautiful,8.568741553761196,1997
+,Martin Scorsese,99685,Goodfellas,8.657313225702673,1990
+,Lana Wachowski,133093,The Matrix,8.645268361441907,1999
+,Jonathan Demme,102926,The Silence of the Lambs,8.588303165292235,1991
+,Frank Capra,38650,It's a Wonderful Life,8.575940307625995,1946
+,Christopher Nolan,1375666,Inception,8.719394453678195,2010
+,Akira Kurosawa,47478,Seven Samurai,8.626629731259918,1954
+,Peter Jackson,167261,The Lord of the Rings: The Two Towers,8.690499676863636,2002
+,Irvin Kershner,80684,Star Wars: Episode V - The Empire Strikes Back,8.72000136116333,1980
+,Milos Forman,73486,One Flew Over the Cuckoo's Nest,8.663427645764742,1975
